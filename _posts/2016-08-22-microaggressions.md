@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T14:48:02.900Z'
+datePublished: '2016-08-22T14:53:19.462Z'
 sourcePath: _posts/2016-08-22-microaggressions.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T14:48:02.213Z'
+dateModified: '2016-08-22T14:53:18.299Z'
 title: ''
 publisher: {}
 description: >-
