@@ -4,22 +4,30 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Microaggressions
-datePublished: '2016-08-22T14:37:37.793Z'
-dateModified: '2016-08-22T14:36:49.629Z'
+description: >-
+  Ich weiß immer noch nicht, wie ich dies empfinden soll. Bezug nehme ich auf
+  einen Vorfall, dass mir heute Morgen geschah. Ich war unterwegs mit dem Hund
+  und wollte mir einen Kaffee und etwas Frühstück holen. Also ich ging ins
+  italienische Café, das sich unweit meiner Wohnung befindet. Obwohl das Café
+  erst um 8:00 auf hat, gab es schon eine Menge im Laden los. Ich ging auf die
+  Kasse zu und bestellte einen Cappuccino und ein Gebäck. Der Mitarbeiter nahm
+  meine Bestellung entgegen und dann machte sich an die Kaffeevorbereitung ran.
+  Anschließend bekam ich den Kaffee und ein warmes Gebäck - aber leider in einem
+  Einwegbecher und einer Tute, also zum Mitnehmen. Kaffee gilt für mich als
+  Genussmittel und daher sollte nicht aus einem Pappbecher getrunken werden. 
+datePublished: '2016-08-22T14:39:14.507Z'
+dateModified: '2016-08-22T14:38:41.057Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-22-microaggressions.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-22-microaggressions.md
 url: microaggressions/index.html
 _type: Article
 
 ---
-**Microaggressions**
-
 Ich weiß immer noch nicht, wie ich dies empfinden soll. Bezug nehme ich auf einen Vorfall, dass mir heute Morgen geschah. Ich war unterwegs mit dem Hund und wollte mir einen Kaffee und etwas Frühstück holen. Also ich ging ins italienische Café, das sich unweit meiner Wohnung befindet. Obwohl das Café erst um 8:00 auf hat, gab es schon eine Menge im Laden los. Ich ging auf die Kasse zu und bestellte einen Cappuccino und ein Gebäck. Der Mitarbeiter nahm meine Bestellung entgegen und dann machte sich an die Kaffeevorbereitung ran. Anschließend bekam ich den Kaffee und ein warmes Gebäck - aber leider in einem Einwegbecher und einer Tute, also zum Mitnehmen. Kaffee gilt für mich als Genussmittel und daher sollte nicht aus einem Pappbecher getrunken werden.
 
 Ich frage mich nur: Hätte ich den Barista bitten sollen, dass die Bestellung eigentlich "for here" war? Warum bekamen die anderen Kunden ihre Bestellungen in Tassen und auf Tellern. Haben sie ausdrücklich danach gefragt? Mich jedenfalls wurde nicht gefragt, ob ich den Kaffee im Haus trinken möchte. 
