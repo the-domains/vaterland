@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T16:16:41.165Z'
+datePublished: '2016-08-22T16:25:58.156Z'
 sourcePath: _posts/2016-08-22-microaggressions.md
 inFeed: true
 authors: []
@@ -7,12 +7,12 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T16:16:40.416Z'
+dateModified: '2016-08-22T16:25:57.229Z'
 title: Für hier oder zum Mitnehmen?
 publisher: {}
 description: >-
   Ich weiß immer noch nicht, wie ich dies empfinden soll. Bezug nehme ich auf
-  einen Vorfall, dass mir heute Morgen geschah. 
+  einen Vorfall, dass mir heute Morgen geschah.
 inLanguage: null
 inNav: false
 starred: false
@@ -20,9 +20,11 @@ url: microaggressions/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fb5bb41-6b1e-4fd3-bbe5-484f0968ab5a.jpg)
+
 # Für hier oder zum Mitnehmen?
 
-Ich weiß immer noch nicht, wie ich dies empfinden soll. Bezug nehme ich auf einen Vorfall, dass mir heute Morgen geschah. 
+Ich weiß immer noch nicht, wie ich dies empfinden soll. Bezug nehme ich auf einen Vorfall, dass mir heute Morgen geschah.
 
 Ich war unterwegs im Kiez mit dem Hund und wollte mir einen Kaffee und etwas Frühstück holen. Also ich ging ins italienische Café, das sich unweit meiner Wohnung befindet. Obwohl das Café erst um 8:00 auf hat, gab es schon eine Menge im Laden los. Ich ging auf die Kasse zu und bestellte einen Cappuccino und ein Gebäck. Der Mitarbeiter nahm meine Bestellung entgegen und dann machte sich an die Kaffeevorbereitung ran. Anschließend bekam ich den Kaffee und ein warmes Hörnchen - aber leider in einem Einwegbecher und einer Tute, also zum Mitnehmen. Kaffee gilt für mich als Genussmittel und daher sollte nicht aus einem Pappbecher getrunken werden.
 
