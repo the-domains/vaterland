@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T16:25:58.156Z'
+datePublished: '2016-08-22T16:27:32.013Z'
 sourcePath: _posts/2016-08-22-microaggressions.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T16:25:57.229Z'
+dateModified: '2016-08-22T16:27:31.374Z'
 title: Für hier oder zum Mitnehmen?
 publisher: {}
 description: >-
@@ -20,8 +20,6 @@ url: microaggressions/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fb5bb41-6b1e-4fd3-bbe5-484f0968ab5a.jpg)
-
 # Für hier oder zum Mitnehmen?
 
 Ich weiß immer noch nicht, wie ich dies empfinden soll. Bezug nehme ich auf einen Vorfall, dass mir heute Morgen geschah.
