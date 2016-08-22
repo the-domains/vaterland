@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T16:27:32.013Z'
+datePublished: '2016-08-22T16:31:33.202Z'
 sourcePath: _posts/2016-08-22-microaggressions.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T16:27:31.374Z'
+dateModified: '2016-08-22T16:31:32.431Z'
 title: Für hier oder zum Mitnehmen?
 publisher: {}
 description: >-
